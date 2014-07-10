@@ -6,7 +6,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: WordPress business website, business website, small business guide, wordpress business plugin, wordpress for business, business plugin
 Requires at least: 2.5
 Tested up to: 3.9.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 A helper to quickly get your business website up and running on any WordPress install with the best in class plugins.
 
@@ -48,3 +48,7 @@ Get more information, ask questions, and make suggestions on the [plugin homepag
 = 1.0 =
 
 Initial release.
+
+= 1.0.1 =
+
+Minor update including style, additional help, and link back to website for more info.
