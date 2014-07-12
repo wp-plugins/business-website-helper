@@ -30,7 +30,7 @@ This plugin makes recommendations for the following areas:
 * Social & Sharing
 * Form Builder
 
-Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/).
+Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/small-business-guides/wordpress/business-website-helper-plugin-wordpress/).
 
 == Installation ==
 1.  Upload/install and activate it.
@@ -41,7 +41,7 @@ Get more information, ask questions, and make suggestions on the [plugin homepag
 When you’re done, feel free to deactivate/delete the plugin  Updates and new recommendations will be added periodically, so check back, but we generally recommend removing unused plugins.
 
 == Frequently Asked Questions ==
-Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/).
+Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/small-business-guides/wordpress/business-website-helper-plugin-wordpress/).
 
 == Changelog ==
 
