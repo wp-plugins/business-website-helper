@@ -45,10 +45,10 @@ Get more information, ask questions, and make suggestions on the [plugin homepag
 
 == Changelog ==
 
-= 1.0 =
-
-Initial release.
-
 = 1.0.1 =
 
 Minor update including style, additional help, and link back to website for more info.
+
+= 1.0 =
+
+Initial release.
