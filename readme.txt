@@ -4,8 +4,8 @@ Donate link: http://justaddcontent.com/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: WordPress business website, business website, small business guide, wordpress business plugin, wordpress for business, business plugin
-Requires at least: 2.5
-Tested up to: 3.9.1
+Requires at least: 2.6
+Tested up to: 4.0
 Stable tag: 1.0.1
 
 A helper to quickly get your business website up and running on any WordPress install with the best in class plugins.
