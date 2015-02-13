@@ -2,10 +2,10 @@
 /*
 Plugin Name: Business Website Helper for WordPress
 Version: 1.0
-Plugin URI: http://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/
+Plugin URI: https://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/
 Description: A helper to quickly get your business website up and running on any self-hosted WordPress install with the best in class plugins.
 Author: Just Add Content, Gabriel Mays
-Author URI: http://justaddcontent.com/
+Author URI: https://justaddcontent.com/
 License: GPL v3
 
 Business Website Helper for WordPress
@@ -300,7 +300,7 @@ A helper to quickly get your business website up and running on any self-hosted 
 None of these website improvements matter if your website isn't secure.  The best way to keep your website secure is to <strong>keep WordPress and all of your plugins updated!</strong>
 
 <h3 style="text-decoration: underline; font-weight: normal;">Questions, Comments &amp; Suggestions</h3>
-Have questions, comments, suggestions, or want a plugin added to the list?  Contact us through the <a href="http://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/" target="_blank">plugin website page</a>.
+Have questions, comments, suggestions, or want a plugin added to the list?  Contact us through the <a href="https://justaddcontent.com/small-business-website-how-to/business-website-helper-plugin-wordpress/" target="_blank">plugin website page</a>.
 
 </div>
 <?php
