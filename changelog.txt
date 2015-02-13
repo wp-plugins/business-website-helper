@@ -1,3 +1,7 @@
+= 1.0.2 =
+
+Minor update, changed links to https.
+
 = 1.0.1 =
 
 Minor update including style, additional help, and link back to website for more info.

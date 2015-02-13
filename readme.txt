@@ -1,12 +1,12 @@
 === Business Website Helper for WordPress ===
 Contributors: Just Add Content
-Donate link: http://justaddcontent.com/
+Donate link: https://justaddcontent.com/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: WordPress business website, business website, small business guide, wordpress business plugin, wordpress for business, business plugin
 Requires at least: 2.6
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 A helper to quickly get your business website up and running on any WordPress install with the best in class plugins.
 
@@ -30,7 +30,7 @@ This plugin makes recommendations for the following areas:
 * Social & Sharing
 * Form Builder
 
-Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/free-business-website-helper-plugin-wordpress/).
+Get more information, ask questions, and make suggestions on the [plugin homepage here](https://justaddcontent.com/free-business-website-helper-plugin-wordpress/).
 
 == Installation ==
 1.  Upload/install and activate it.
@@ -41,7 +41,7 @@ Get more information, ask questions, and make suggestions on the [plugin homepag
 When you’re done, feel free to deactivate/delete the plugin  Updates and new recommendations will be added periodically, so check back, but we generally recommend removing unused plugins.
 
 == Frequently Asked Questions ==
-Get more information, ask questions, and make suggestions on the [plugin homepage here](http://justaddcontent.com/free-business-website-helper-plugin-wordpress/).
+Get more information, ask questions, and make suggestions on the [plugin homepage here](https://justaddcontent.com/free-business-website-helper-plugin-wordpress/).
 
 == Changelog ==
 
