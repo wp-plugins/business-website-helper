@@ -2,10 +2,10 @@
 /*
 Plugin Name: Business Website Helper for WordPress
 Version: 1.0.1
-Plugin URI: http://justaddcontent.com/free-business-website-helper-plugin-wordpress/
+Plugin URI: https://justaddcontent.com/free-business-website-helper-plugin-wordpress/
 Description: A helper to quickly get your business website up and running on any self-hosted WordPress install with the best in class plugins.
 Author: Just Add Content, Gabriel Mays
-Author URI: http://justaddcontent.com/
+Author URI: https://justaddcontent.com/
 License: GPL v3
 
 Business Website Helper for WordPress
@@ -36,7 +36,7 @@ function jac_website_setup() {
 ?>
 <div style="margin: 3%; font-weight: 16px; line-height: 1.5;">
 <?php
-echo '<a href="http://justaddcontent.com/" target="_blank" title="Just Add Content"><img src="' . plugins_url( 'images/justaddcontent.png' , __FILE__ ) . '" alt="Just Add Content" class="alignright"></a> ';
+echo '<a href="https://justaddcontent.com/" target="_blank" title="Just Add Content"><img src="' . plugins_url( 'images/justaddcontent.png' , __FILE__ ) . '" alt="Just Add Content" class="alignright"></a> ';
 ?>
 <h2>WordPress Business Website Setup</h2>
 This plugin will help you quickly get your business website up and running on any self-hosted WordPress installation with the best plugins in each category.  See the bottom of this page for additional help.
@@ -303,10 +303,10 @@ This plugin will help you quickly get your business website up and running on an
 None of these website improvements matter if your website isn't secure.  The best way to keep your website secure is to <strong>keep WordPress and all of your plugins updated!</strong>
 
 <h3 style="text-decoration: underline; font-weight: normal;">Want It All Done For You?</h3>
-If this seems too time consuming or complicated and you'd rather have it all done for you, try our hosted website service.  It's a simplified version of WordPress built exclusively for small businesses that includes everything above and more.  Best of all, you never have to worry about themes, plugins, hosting, design or keeping your website secure.  Learn more at <a href="http://justaddcontent.com" target="_blank">http://justaddcontent.com</a>
+If this seems too time consuming or complicated and you'd rather have it all done for you, try our hosted website service.  It's a simplified version of WordPress built exclusively for small businesses that includes everything above and more.  Best of all, you never have to worry about themes, plugins, hosting, design or keeping your website secure.  Learn more at <a href="https://justaddcontent.com" target="_blank">https://justaddcontent.com</a>
 
 <h3 style="text-decoration: underline; font-weight: normal;">Questions, Comments &amp; Suggestions</h3>
-Have questions, comments, suggestions, or want a plugin added to the list?  Contact us through the <a href="http://justaddcontent.com/free-business-website-helper-plugin-wordpress/" target="_blank">plugin website page</a>.
+Have questions, comments, suggestions, or want a plugin added to the list?  Contact us through the <a href="https://justaddcontent.com/free-business-website-helper-plugin-wordpress/" target="_blank">plugin website page</a>.
 
 </div>
 <?php
