@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Business Website Helper for WordPress
-Version: 1.0.2
+Version: 1.0.3
 Plugin URI: https://justaddcontent.com/free-business-website-helper-plugin-wordpress/
 Description: A helper to quickly get your business website up and running on any self-hosted WordPress install with the best in class plugins.
 Author: Just Add Content, Gabriel Mays

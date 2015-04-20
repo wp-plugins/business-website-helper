@@ -5,8 +5,8 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: WordPress business website, business website, small business guide, wordpress business plugin, wordpress for business, business plugin
 Requires at least: 2.6
-Tested up to: 4.1
-Stable tag: 1.0.2
+Tested up to: 4.2
+Stable tag: 1.0.3
 
 A helper to quickly get your business website up and running on any WordPress install with the best in class plugins.
 
@@ -14,7 +14,7 @@ A helper to quickly get your business website up and running on any WordPress in
 
 For small businesses self-hosting WordPress there’s no easy way to find the best plugins to install.
 
-From working exclusively with businesses over the years and reviewing hundreds of plugins, we put together a list of the best ones available in this plugin.  This plugin shows you the best options based on price, power, and simplicity.  It’ll also tell you whether or not they’re installed and active on your website.
+From working exclusively with small businesses over the years and reviewing hundreds of plugins, we put together a list of the best ones available in this plugin.  This plugin shows you the best options based on price, power, and simplicity.  It’ll also tell you whether or not they’re installed and active on your website.
 
 This plugin makes recommendations for the following areas:
 
@@ -44,6 +44,14 @@ When you’re done, feel free to deactivate/delete the plugin  Updates and new r
 Get more information, ask questions, and make suggestions on the [plugin homepage here](https://justaddcontent.com/free-business-website-helper-plugin-wordpress/).
 
 == Changelog ==
+
+= 1.0.3 =
+
+Minor copy changes.  Bump tested up to 4.2.  No code changes.
+
+= 1.0.2 =
+
+Minor update, no code changes, version bump.
 
 = 1.0.1 =
 
